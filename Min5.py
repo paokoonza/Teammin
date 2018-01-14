@@ -37,7 +37,7 @@ cl
 #with open('profileSave.pkl') as f:
 #    save1 = pickle.load(f)
 
-print "login success"
+print "login ═════════════[By.มินทีมทดลองบอท]══════════════"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 helpMessage ="""☬̫̫Min☬̫ SELF BOT
